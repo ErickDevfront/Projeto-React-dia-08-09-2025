@@ -9,7 +9,7 @@
   width: 100%;
   padding: 15px 30px;
   display: flex;
-  justify-content: center; /* ou 'space-around' */
+  justify-content: center;
   gap: 40px;
   z-index: 1000;
 }
