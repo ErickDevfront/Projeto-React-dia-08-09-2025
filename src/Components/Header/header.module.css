@@ -1,0 +1,31 @@
+
+
+
+   .header {
+  background-color: brown;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: center; /* ou 'space-around' */
+  gap: 40px;
+  z-index: 1000;
+}
+
+.header a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+.header a:hover {
+  color: lightgray;
+}
+
+    
+
+
